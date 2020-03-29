@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
 show_downloads: ["true"]
+github:
+  zip_url: https://github.com/jiucheng09/ourAO3/releases/download/v0.1-alpha/app-release.apk
