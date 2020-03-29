@@ -4,7 +4,7 @@
 
 [点此下载安装](https://github.com/jiucheng09/ourAO3/releases/download/v0.1-alpha/app-release.apk) <span id="01dlcount"></span>
 
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://cdn.staticfile.org/jquery/3.4.1/jquery.min.js"></script>
 <script>
 getDlCount('https://api.github.com/repos/jiucheng09/ourAO3/releases/assets/19114150', '#01dlcount');
 function getDlCount(url, selector) {
